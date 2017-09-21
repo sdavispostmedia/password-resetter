@@ -1,0 +1,10 @@
+{
+  "name": "password-resetter",
+  "version": "1.0.0",
+  "description": "Reset the password of all of your local users to test.",
+  "main": "app.js",
+  "author": "Stephen Davis",
+  "dependencies": {
+    "mongoose": "^4.11.12"
+  }
+}
